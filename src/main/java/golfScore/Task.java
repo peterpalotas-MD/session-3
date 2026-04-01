@@ -24,7 +24,7 @@ public class Task {
                 case 1:
                     return "Birdie";
                 case 0:
-                    return "par yurr";
+                    return "par";
                 case -1:
                     return "Bogey";
                 case -2:
